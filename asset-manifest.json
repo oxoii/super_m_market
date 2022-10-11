@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/super_m_market/static/css/main.67f49589.css",
-    "main.js": "/super_m_market/static/js/main.a25c1f01.js",
+    "main.js": "/super_m_market/static/js/main.b29c3747.js",
     "static/js/787.b13e38be.chunk.js": "/super_m_market/static/js/787.b13e38be.chunk.js",
     "index.html": "/super_m_market/index.html",
     "main.67f49589.css.map": "/super_m_market/static/css/main.67f49589.css.map",
-    "main.a25c1f01.js.map": "/super_m_market/static/js/main.a25c1f01.js.map",
+    "main.b29c3747.js.map": "/super_m_market/static/js/main.b29c3747.js.map",
     "787.b13e38be.chunk.js.map": "/super_m_market/static/js/787.b13e38be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67f49589.css",
-    "static/js/main.a25c1f01.js"
+    "static/js/main.b29c3747.js"
   ]
 }
