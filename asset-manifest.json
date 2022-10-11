@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oxoii/super_m_market/static/css/main.67f49589.css",
+    "main.js": "/oxoii/super_m_market/static/js/main.e717fdd2.js",
+    "static/js/787.b13e38be.chunk.js": "/oxoii/super_m_market/static/js/787.b13e38be.chunk.js",
+    "index.html": "/oxoii/super_m_market/index.html",
+    "main.67f49589.css.map": "/oxoii/super_m_market/static/css/main.67f49589.css.map",
+    "main.e717fdd2.js.map": "/oxoii/super_m_market/static/js/main.e717fdd2.js.map",
+    "787.b13e38be.chunk.js.map": "/oxoii/super_m_market/static/js/787.b13e38be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67f49589.css",
+    "static/js/main.e717fdd2.js"
+  ]
+}
